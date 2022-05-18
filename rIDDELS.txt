@@ -1,0 +1,5 @@
+Three spies: Three spies, suspected as double agents, 
+speak as follows when questioned: Albert: "Bertie is a mole." 
+Bertie: "Cedric is a mole." Cedric: "Bertie is lying." 
+Assuming that moles lie, other agents tell the truth, 
+and there is just one mole among the three, who is the mole?

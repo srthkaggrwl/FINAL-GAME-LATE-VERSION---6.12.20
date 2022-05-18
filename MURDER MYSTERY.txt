@@ -1,0 +1,125 @@
+CRIME SCENE
+
+24/6/20
+Art Studio
+Birmingham
+England
+
+
+A corpse lies on the floor right next to a canvas. The room is full 
+of paintings hung up on the wall, the artist's original work. The light 
+comes in through the window on the left of the canvas. The room is
+decorated with statues, flowers, music albums with a record player in the 
+left corner of the room and a comfortable diwan next to the window. The dark blue 
+colour of the walls were in stark contrast with the bright paintings hung on them. 
+
+FORENSICS REPORT:
+The victim is a Mr. Basil, a man in his mid 30s, a professional painter since the last 7 years. 
+Time of death is said to be around 11:00 pm. The killer used a sharp object, maybe a surgical
+knife to slice the victim's throat,due to severe bleeding the victim lost a huge amount of blood 
+leading to his demise.
+
+# REPORT 1 ( INSERT )
+
+You look at the canvas with blood covering up an unfinished painting.
+The painting is of a man sitting with his legs crossed and his arms
+on the chair. The man's face was covered with Basil's blood and he couldn't be
+identfied. A grey hat, a gold wrist watch and  was kept beside the subject on the chair .
+The man wore a black waist coat with brown leather shoes.
+
+WITNESS REPORT:
+The neighbours heard a loud voice around 11:00 pm which sounded like a heavy 
+object dropped on the floor and a visitor came to his home like every other
+night. One of the nighbours saw the visitor leave, he was wearing a blue waist coat
+and grey hat. The neighbours entered Mr.Basil's house and found his lifeless body on
+the floor. They called the police at around 12pm.
+
+#REPORT 2 ( APPEND 1 )
+
+LIST OF INTERVIEWS:
+1) Mr.Henry crowe - A close friend who lived close by
+2) Mrs.Crowe - Mr.Henry's wife
+3) Mr.Dorian Wilde - A frequent Visitor
+
+------ 
+
+MR.HENRY CROWE
+A man in his mid 40s, pharmacist, he was wearing a long sleeve jacket with
+legs crossed.
+''I have known Basil ever since he moved into our building.
+ He has been a close friend and the moment I heard what happened and 
+ I was terrified. He never deserved this, he was a great artist and 
+ great man. Last time I saw him was yesterday evening in the park 
+ when we both went for walks. If I knew anything more than that
+ I would have surely helped you Officer''
+
+EVIDENCE 1:
+The CCTV Cameras were switched off at night. The only CCTV camera footage
+was of the enterance to the building but no one in a waist coat and grey hat
+entered or left the building. The police also found traces of tranquilizer in the
+victim's blood.
+
+#REPORT 3 ( APPEND 2 )
+
+MRS. CROWE
+A woman in her late 30s, housewife, she was wearing a red dress with a handkerchief
+in her hand, mourning the loss.
+'' This is horrible. Basil was really a good man and only a really wicked man
+   could do something like this to a generous man like him. When Henry wasn't home
+   for a few weeks, Basil always helped me with getting groceries and whenever I
+   needed his help. The last time I saw him was when he left with my husband to
+   go the pub to have a few drinks since they had to celebrate Basil's 50th
+   painting, the subject being Henry himself. He was a great artist and 
+   drew things which brought out the subject in a very raw form , in a way 
+   only a true artist could.''
+
+EVEDINCE 2:
+There were fingerprints found in the appartment which belonged to Mr.Dorian Wilde,
+Mr. Basil's close associate. 
+
+#REPORT 4 ( APPEND 3)
+
+MR.DORIAN WILDE
+A man in his late 20s, an amatuer painter. He was wearing a waist coat with a gray hat.
+'' Mr.Basil has always been my mentor and he had taught me a lot about the art form. Its
+   just sad to hear that such a great man was murdered in his own house, in his art studio
+   a place which he loved and stayed all day to do his work. The last time I saw him was 
+   in the pub with Mr. Henry. I didn't approach him because they seemed to have a very
+   friendly conversation which i didn't wanna ruin with my unnecessary questions about art.''
+
+EVIDENCE 3:
+One of the neighbours saw Mrs.Crowe visit Mr.Basil at his house whenever Mr.Henry was out of 
+the city for work.
+
+#REPORT 5( APPEND 4)
+
+FINAL VISIT TO CRIME SCENE:
+You take a closer look at all the paintings. Almost all of them are of different people 
+sitting on the same chair. One of them is of Mrs.Crowe in her red dress. All of the subjects
+in the painting have their belongings on the table next to the subject. You take another look
+at the unfinished painting on the canvas. You have your facts ready. Its time to arrest the
+murderer. 
+
+#REPORT 6 ( APPEND 5)
+
+
+
+# SCORE CALCULATE
+
+# RESULT
+
+
+REAL ANSWER:
+Mr. Henry is the real murderer although he did a great job at hiding it. He never had to exit  
+the building and after slicing Mr.Basil's throat with a surgical knife which he got from his 
+own store very easily. The painting was the biggest clue, the gold watch that belonged to the 
+subject was worn by Mr.Henry during his interview and he was wearing a long sleeve jacket
+in summer which obviously meant that he tried to hide the gold watch. The grey hat and the 
+waist coat which Mr. Dorian always wore was worn by you to point the murder towards him. The
+motive of the murder was as simple as it could be. Mrs.Crowe was having an affair with Mr.Basil,
+the painting and the way she talked about him gave it away. The day Henry found out about it, 
+he took him to a pub and drugged him. He went to his appartment for finishing his last painting,
+slashed his throat and took an innocent man's life as revenge.
+ 
+
+
